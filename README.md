@@ -1,4 +1,5 @@
 # Privacy Policy Analysis
+Lindsey Rojtas | ler75@pitt.edu | University of Pittsburgh Class of 2023 
 
 ## Summary 
 This repository will act as my platform for my final project for Advanced Special Topics in Computing and Info (CMPINF 1999) at the University of Pittsburgh. The special topics we are covering are comparative digital privacies.  
