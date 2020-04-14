@@ -23,4 +23,4 @@ From [Usable Privacy Policy Project's website](https://usableprivacy.org/data):
 *The above paper is also an essential read for understanding the structure and contents of the corpus."*
 
 ## Licensing
-This project is licensed under CC-BY-NC 3.0. The license is in `LICENSE.md` and a human readable version can be found [here](https://creativecommons.org/licenses/by-nc/3.0/)
+This project is licensed under CC-BY-NC 3.0. The license is in `LICENSE.md` and a human readable version can be found [here](https://creativecommons.org/licenses/by-nc/3.0/). A sample of the data in the form of an HTML file is published under fair use.
