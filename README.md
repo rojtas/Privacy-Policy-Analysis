@@ -9,15 +9,18 @@ Informed consent is difficult to acquire through an online platform. Privacy pol
 ## About My Data
 From [Usable Privacy Policy Project's website](https://usableprivacy.org/data):
 
-"The OPP-115 Corpus (Online Privacy Policies, set of 115) is a collection of website privacy policies (i.e., in natural language) with annotations that specify data practices in the text. Each privacy policy was read and annotated by three graduate students in law.
+*"The OPP-115 Corpus (Online Privacy Policies, set of 115) is a collection of website privacy policies (i.e., in natural language) with annotations that specify data practices in the text. Each privacy policy was read and annotated by three graduate students in law.*
 
-The dataset is made available for research, teaching, and scholarship purposes only, with further parameters in the spirit of a Creative Commons Attribution-NonCommercial License. Contact Prof. Norman Sadeh with any questions.
+*The dataset is made available for research, teaching, and scholarship purposes only, with further parameters in the spirit of a Creative Commons Attribution-NonCommercial License. Contact Prof. Norman Sadeh with any questions.*
 
-If you use this dataset as part of a publication, you must cite the following paper:
+*If you use this dataset as part of a publication, you must cite the following paper:*
 
-    *The creation and analysis of a website privacy policy corpus. Shomir Wilson, Florian Schaub, Aswarth Abhilash Dara, Frederick Liu,    
+`The creation and analysis of a website privacy policy corpus. Shomir Wilson, Florian Schaub, Aswarth Abhilash Dara, Frederick Liu,    
     Sushain Cherivirala, Pedro Giovanni Leon, Mads Schaarup Andersen, Sebastian Zimmeck, Kanthashree Mysore Sathyendra, N. Cameron 
     Russell, Thomas B. Norton, Eduard Hovy, Joel Reidenberg, and Norman Sadeh. In Proceedings of the 54th Annual Meeting of the 
-    Association for Computational Linguistics, Berlin, Germany, August 2016.*
+    Association for Computational Linguistics, Berlin, Germany, August 2016.`
 
-The above paper is also an essential read for understanding the structure and contents of the corpus."
+*The above paper is also an essential read for understanding the structure and contents of the corpus."*
+
+## Licensing
+This project is licensed under CC-BY-NC 3.0. The license is in `LICENSE.md` and a human readable version can be found [here](https://creativecommons.org/licenses/by-nc/3.0/)
