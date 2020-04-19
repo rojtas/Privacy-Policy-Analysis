@@ -6,6 +6,15 @@ This repository will act as my platform for my final project for Advanced Specia
   
 Informed consent is difficult to acquire through an online platform. Privacy policies are a commonplace digital version of informed consent forms, but a user cannot be informed if they don't read the policy. Whether or not this is the fault of the user or the writer of the policy is up to the language used in the policy. I will be tokenizing privacy policies from a variety of different websites and analyzing the language used in these policies to determine whether the policies are short and simple enough for the average Internet user to be able to read. 
 
+## About My Project
+This project is an analysis on the length in words, average word length, and type-token ratio (word uniqueness) of 113 different privacy policies from the OPP-115 corpus in the form of HTML files (see below for more information on the corpus). These policies were found in 2016 and include but are not limited to Google, Amazon, New York Times, NBC Universal, Barnes and Noble, and other news and business sites. You will find my code and my explanations for it in the `code` folder of this repository, which contains `code.ipynb`. It is viewable online, so there is no need to download it. In `code.ipynb`, to reiterate, there is my code with comments and annotations to make it easier to follow my thought process. In `samples`, you will find the HTML file for IMDb's website page as a sample that I have put in my repository under Fair Use. Information on my `LICENSE` can be found in the licensing heading of this `README` file.  
+  
+Another small bit of motivation is to look at this issue with a polymathic approach. These issues with privacy policies are both computer/information issues and linguistic issues. As such, I am using skills that I learned in both my CS classes and linguistic classes to complete this project.   
+  
+If you are my CMPINF 1999 professor, Mr. Song Shi at the University of Pittsburgh, hello! I hope you have fun looking at and grading this repository. The entire repository is my submission, as my code file also contains annotations and documentation to illustrate my thought process.   
+  
+If you're anyone else, welcome! I really enjoyed working on this project and I hope you enjoy looking at it too. I may expand on it in the future. 
+
 ## About My Data
 From [Usable Privacy Policy Project's website](https://usableprivacy.org/data):
 
